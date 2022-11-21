@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Eğitimi kapsamında
 # Installation
 Öncelikle projeyi clonelayın.
 ```bash
-https://github.com/akoluacik/kodluyoruzilkrepo.git
+https://github.com/yigitatakan/kodluyoruzilkrepo.git
 ```
 # Usage
 Projeyi clonladıktan sonra Visual Studio Code programında açınız.
@@ -20,4 +20,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # Licence
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![ss](img/project_screenshot.png)
+![img](screenshot.png)
